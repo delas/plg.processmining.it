@@ -6,7 +6,7 @@ hide:
 
 # PLG - Processes and Logs Generator
 
-** Multiperspective Processes Randomization and Simulation for Online and Offline Settings **
+**Multiperspective Processes Randomization and Simulation for Online and Offline Settings**
 
 
 ![Untitled](https://github.com/delas/plg/assets/867237/5d5dd159-826c-4b09-9de5-0b7176a3c5a6)
