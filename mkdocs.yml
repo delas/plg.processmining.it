@@ -1,0 +1,18 @@
+site_name: PLG - Processes and Logs Generator
+site_url: https://plg.processmining.it
+repo_url: https://github.com/delas/plg
+
+nav:
+  - PLG - Processes and Logs Generator: index.md
+
+theme:
+  name: material
+  palette:
+    primary: blue grey
+  features:
+    
+  icon:
+    logo: material/home
+
+markdown_extensions:
+  - attr_list
